@@ -1,6 +1,5 @@
 # NAVI-DOC
-Navidoc is a secure, ML-powered web platform that alerts citizens to government-scheme eligibility, lets them pre-verify documents, schedule appointments, and perform digital payments to reduce corruption and fraud.
-
+Using secure ML-based technology, Navidoc provides a web platform that notifies citizens of their eligibility for government schemes and facilitates document pre-verification, appointment scheduling, and digital payments to curb fraud and corruption.
 **Live demo:** https://navidoc-citizen-serv-v1ho.bolt.host
 
 ## Features
@@ -15,4 +14,4 @@ Navidoc is a secure, ML-powered web platform that alerts citizens to government-
 2. See `/frontend` and `/backend` for setup (to be added).
 
 ## Contact
-harinim.ece2023@citchennai.net
+shakthipriyavelayuthpani.vlsi2023@citchennai.net
